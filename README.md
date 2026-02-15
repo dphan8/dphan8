@@ -1,9 +1,9 @@
 David Phan  
 Finance x Product | Building at the intersection of financial strategy and technical execution  
 
-I am a Finance and Commerce graduate from the University of Sydney, based in Sydney and preparing to transition into the San Francisco/New York City markets. My background bridges complex business logic and scalable software, and I specialize in turning ambiguous operational problems into streamlined technical solutions.  
+I am a Financial Analyst at WiseTech Global based in Sydney and preparing to transition into the San Francisco/New York City markets. My background bridges complex business logic and scalable software, and I specialize in turning ambiguous operational problems into streamlined technical solutions.  
 
-Status: Dual US–AUS citizen (no visa sponsorship required for US roles). Currently a Finance Graduate at WiseTech Global.  
+Status: Dual US–AUS citizen (no visa sponsorship required for US roles).
 
 ***
 
@@ -19,17 +19,17 @@ Next.js, React, Tailwind CSS
 Supabase, PostgreSQL, Prisma  
 
 **DevOps / Tools**  
-Vercel, Git, GitHub, Postman  
+Vercel, GitHub, Graphite, Notion, Claude Code CLI, Codex App, Gemini CLI, Github Copilot, VS Code, Anitgravity, Coderabbit
 
 ***
 
 ### Featured Projects
 
 **[LightningSync](https://lightningsync.dev/)**  
-A SaaS synchronization engine for GTM teams.  
-- Problem: Sales and marketing data often live in silos, blocking accurate, cross-functional reporting for RevOps teams.  
+Connector to sync Square and marketing data into Supabase databases automatically, no manual exports or custom code.
+- Problem: Sales and marketing data often live in silos, blocking accurate, cross-functional reporting for marketing teams or brand owners.  
 - Solution: Built a service that syncs disparate marketing data directly into Supabase to create a single source of truth for performance metrics.  
-- Tech: Next.js, TypeScript, Supabase, Vercel.  
+- Tech: Next.js, TypeScript, Supabase, Vercel.
 
 **OneShot Interview Scheduling**  
 Automated scheduling tool built during a 48‑hour hackathon.  
