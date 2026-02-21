@@ -1,9 +1,9 @@
 David Phan  
 Finance x Product | Building at the intersection of financial strategy and technical execution  
 
-I am a Financial Analyst at WiseTech Global based in Sydney and preparing to transition into the San Francisco/New York City markets. My background bridges complex business logic and scalable software, and I specialize in turning ambiguous operational problems into streamlined technical solutions.  
+I am a Financial Analyst at WiseTech Global. My background bridges complex business logic and scalable software, and I specialize in turning ambiguous operational problems into streamlined technical solutions.  
 
-Status: Dual US–AUS citizen (no visa sponsorship required for US roles).
+Status: Dual US–AUS citizen (no visa sponsorship required for US roles). With residences in San Francisco.
 
 ***
 
