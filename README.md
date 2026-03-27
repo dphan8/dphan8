@@ -1,16 +1,13 @@
-## Hi there 👋
+David Phan  
+Finance x Product
 
-<!--
-**dphan8/dphan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current Focus**  
+LLMBillingKit: https://github.com/dphan8/LLMBillingKit
+PyPI: https://pypi.org/project/LLMBillingKit/
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+
+Email: [davidvphn@gmail.com](mailto:davidvphn@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/david-phan11/](https://www.linkedin.com/in/david-phan11/) 
